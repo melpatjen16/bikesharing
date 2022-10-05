@@ -1,5 +1,5 @@
 # NYC CitiBike Ridership Analysis
-[link to story] (https://public.tableau.com/app/profile/melanie.p.jenkins/viz/NYCCitiBikeRidership/NYCCitiBikeRidershipAnalysis?publish=yes)
+[link to story] (https://public.tableau.com/app/profile/melanie.p.jenkins/viz/NYCCitiBikeRidership/NYCCitiBikeRidershipAnalysis?publish=yes "link to story")
 
 ## Overview of the status analysis 
 
@@ -75,9 +75,3 @@ In summary, the major rider demographic is men in the subscriber user-group. Mor
 
 Additional analysis should include a better variable to indicate age. The proposal should examine in greater detail the demographic being best serve. Based on Vis-6, it may be users in a mid-career age or in retirement that are a better target. 
 
-
-
-
-
-
- # bikesharing_analysis
