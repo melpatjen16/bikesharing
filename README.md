@@ -1,5 +1,5 @@
 # NYC CitiBike Ridership Analysis
-[link to story]
+[link to story] (https://public.tableau.com/app/profile/melanie.p.jenkins/viz/NYCCitiBikeRidership/NYCCitiBikeRidershipAnalysis?publish=yes)
 
 ## Overview of the status analysis 
 
