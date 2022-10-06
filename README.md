@@ -9,62 +9,66 @@
 An analysis of NYC CitiBike Analysis was conducted to provide stakeholder insight into opportunities for improvement. More has work to been done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, the following data points are provided. 
 
 
- I. Time that bikes are checked out for all riders and genders
-II. Ridership times by genders for each hour of each day of the week
-III. Ridership for each type of user and gender for each day of the week.
+ 	1. Time that bikes are checked out for all riders and genders
+
+	2. Ridership times by genders for each hour of each day of the week
+
+	3. Ridership for each type of user and gender for each day of the week.
+
 
 Additional insight include, 
 
-IV. Average Duration of Trip by User Age Indicator 
-V. Most popular starting/stopping points for bike-share riders. 
+	4. Average Duration of Trip by User Age Indicator 
+	5. Most popular starting/stopping points for bike-share riders. 
 
 
 ## Results
 
 ### Visualizations and Description
 
-1. Ridership by Trip Duration
+Viz-1. Ridership by Trip Duration
 
-The vast majority of rider spend less than 40 minutes on a trip. 
+The vast majority of riders spend less than 20 minutes on a trip.  
 
 ![Image1](images/Image1.png)
 
-2. Ridership by Trip Duration and Gender
+Viz-2. Ridership by Trip Duration and Gender
 
-While majority of riders are male, all three gender group trended similarly and did not have trips lasting great that an hour.  
+While majority of riders are male, all three gender groups trended similarly and did not have trips lasting greater than 20 minutes.  
 
 ![Image2](images/Image2.png)
 
-3. Ridership by Weekday and Start-time/Stop-time 
+Viz-3. Ridership by Weekday and Start-time/Stop-time 
 
-Most bike-sharing trip occur between the hours 5PM and 7Pm. This seems to occur most days, with the exception of Wednesday. 
+Most bike-sharing trips occur between the hours 5PM and 7Pm. The pattern occur most weekdays, with the exception of Wednesday. 
 
 ![Image3](images/Image3.png)
 
-4. Ridership by Gender, Weekday and Stop-time
+Viz-4. Ridership by Gender, Weekday and Stop-time
 
 Similar to the Viz-2, the majority of ridership is done by males. This figure also identifies which group has the greatest ridership during the peak hours referenced in Viz-3. 
 
 ![Image4](images/Image4.png)
 
-5. Ridership by User Type, Weekday, and Gender
+Viz-5. Ridership by User Type, Weekday, and Gender
 
-From this visitation, there is no question that the majority of ridership is by Male, Subscribers. The proposal should highlight this group as the target audience considering that utilize the service most days as well.  
+From this visitation, there is no question that the majority of ridership is by Male, Subscribers. The proposal should highlight this group as the target audience considering they patronize the bike-sharing the service most days.  
 
 ![Image5](images/Image5.png)
 
-6. Average Trip Duration by Birth Year
+Viz-6. Average Trip Duration by Birth Year
+
 Considering the data is from a public source, it is clear there are anomalies in the data. This slide is presented for the purposes of letting us consider a better age calculation to indicate age. 
 
 ![Image6](images/Image6.png)
 
-7. Most Popular Starting Locations
+Viz-7. Most Popular Starting Locations
 
-Most popular locations are along the water on the west side. It may be a good idea to marker for rides around the water. 
+Most popular locations are along the water on the west side. It may be a good idea to market the ride-sharing proposal around this area. 
 
 ![Image7](images/Image7.png)
 
-8. Most Popular Stopping Locations
+Viz-8. Most Popular Stopping Locations
 
 Similar to Viz-7, the most popular locations to stop are along the basin. Keeping in the average duration of trips, and the largest proportion spend less than 20 minutes, mapping attractions nearby may be helpful. 
 
